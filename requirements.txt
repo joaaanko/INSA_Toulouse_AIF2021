@@ -1,0 +1,76 @@
+argon2-cffi==21.1.0
+attrs==21.2.0
+backcall==0.2.0
+bleach==4.1.0
+Cartopy @ file:///C:/ci/cartopy_1636040271244/work
+certifi==2021.10.8
+cffi==1.15.0
+cftime==1.5.1.1
+colorama==0.4.4
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+debugpy==1.5.1
+decorator==5.1.0
+defusedxml==0.7.1
+entrypoints==0.3
+eofs==1.4.0
+importlib-resources==5.4.0
+ipykernel==6.5.0
+ipython==7.29.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.5
+jedi==0.18.0
+Jinja2==3.0.3
+jsonschema==4.2.1
+jupyter==1.0.0
+jupyter-client==7.0.6
+jupyter-console==6.4.0
+jupyter-core==4.9.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.2
+kiwisolver @ file:///D:/bld/kiwisolver_1635836839743/work
+MarkupSafe==2.0.1
+matplotlib @ file:///D:/bld/matplotlib-suite_1632417749342/work
+matplotlib-inline==0.1.3
+mistune==0.8.4
+nbclient==0.5.5
+nbconvert==6.2.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+netCDF4==1.5.8
+notebook==6.4.5
+numpy @ file:///D:/bld/numpy_1636145500119/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging==21.2
+pandas==1.3.4
+pandocfilters==1.5.0
+parso==0.8.2
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1636558975346/work
+prometheus-client==0.12.0
+prompt-toolkit==3.0.22
+pycparser==2.21
+Pygments==2.10.0
+pyparsing==2.4.7
+pyrsistent==0.18.0
+pyshp @ file:///home/conda/feedstock_root/build_artifacts/pyshp_1610646860606/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz==2021.3
+pywin32==302
+pywinpty==1.1.5
+pyzmq==22.3.0
+qtconsole==5.2.0
+QtPy==1.11.2
+scipy @ file:///C:/bld/scipy_1636410631952/work
+Send2Trash==1.8.0
+Shapely==1.7.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+terminado==0.12.1
+testpath==0.5.0
+tornado @ file:///D:/bld/tornado_1635819758615/work
+traitlets==5.1.1
+wcwidth==0.2.5
+webencodings==0.5.1
+widgetsnbextension==3.5.2
+wincertstore==0.2
+xarray==0.20.1
+zipp==3.6.0
