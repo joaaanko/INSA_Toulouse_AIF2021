@@ -1,7 +1,7 @@
 # folders
-*.ipynb_checkpoints/
-#ignore data folder
-data/
 .ipynb_checkpoints/
 .vscode/
 __pycache__/
+
+# data folder
+data/
