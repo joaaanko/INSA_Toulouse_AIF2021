@@ -18,7 +18,7 @@ Participants (INSA Toulouse):
  ## Scoring methodology
  
  The scoring metric used in this project is the Mean Average Percentage Error (MAPE):
- - <img src="https://latex.codecogs.com/gif.latex?" MAPE = \frac{100}{n}\sum_{i = 1}^{n} \abs\frac{A_t - F_t}{A_t})/> 
+ - <img src="https://render.githubusercontent.com/render/math?math=MAPE = \frac{100}{n}\sum_{i = 1}^{n} \abs\frac{A_t - F_t}{A_t})">
 
  
  The lower the score, the better.
